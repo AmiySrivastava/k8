@@ -1,2 +1,2 @@
 # k8
-Kubernetes related files are places here
+Kubernetes related files are placed here
